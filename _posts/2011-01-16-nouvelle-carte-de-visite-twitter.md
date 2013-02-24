@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Nouvelle carte de visite Twitter
+location: Paris Area, France
+tags:
+    - geek
 ---
 
 <img src="/assets/images/blog/Perso/carteTwitter_v001.jpg" alt="" />  

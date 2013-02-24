@@ -1,19 +1,20 @@
-source: ./src
+#Github page settings
+safe: true
+lsi: false
+pygments: true
+
 destination: ./site
 
-safe: true
-
 #url: http://localhost:10090
-url: http://www.remibarbe.fr
+url: http://remiii.github.com
+#url: http://www.remibarbe.fr
 
 author:
     name: Rémi Barbe
-    email: contact@remibarbe.fr
     github: remiii
     twitter: Remiii_
 
-
-production_url: http://remibarbe.github.com
+production_url: http://remiii.github.com
 
 permalink: /blog/:year/:month/:day/:title
 

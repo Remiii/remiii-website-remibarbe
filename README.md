@@ -2,10 +2,18 @@
 
 Source code of remibarbe.fr
 
-# Dev evt
+## Dev evt
+
+### Site dir
 
 ```sh
-$ jekyll --server 10090 --auto
+$ mkdir site
 ```
+
+### Run Jekyll
+```sh
+$ jekyll --server 10090 --auto --safe --no-lsi --pygments
+```
+
 
 
