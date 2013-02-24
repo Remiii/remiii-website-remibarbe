@@ -3,7 +3,7 @@ safe: true
 lsi: false
 pygments: true
 
-destination: ./site
+destination: ./_site
 
 #url: http://localhost:10090
 url: http://remiii.github.com
