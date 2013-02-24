@@ -1,0 +1,63 @@
+---
+layout: default
+name: "home_news"
+title: "News "
+meta_description: " - Vous trouverez ici quelques news."
+meta_keywords: ""
+meta_robots: "index, follow"
+---
+
+<div class="row">
+    <div class="span12">
+        <div class="page-header">
+            <h1>News</h1>
+        </div>
+        <div class="row">
+            <div class="span6">
+                <h2>Twitter</h2>
+                <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+                <script>
+                new TWTR.Widget({
+                    version: 2,
+                    type: 'profile',
+                    rpp: 10,
+                    interval: 30000,
+                    width: 500,
+                    height: 490,
+                    theme: {
+                    shell: {
+                        background: '#e6e6e6',
+                        color: '#000000'
+                    },
+                    tweets: {
+                        background: '#ffffff',
+                        color: '#000000',
+                        links: '#0069d6'
+                    }
+                    },
+                    features: {
+                    scrollbar: true,
+                    loop: false,
+                    live: false,
+                    behavior: 'all'
+                    }
+                }).render().setUser('Remiii_').start();
+                </script>
+            </div> <!-- end wrapper - span -->
+            <div class="span5 offset1">
+                <h2>Blog</h2>
+                    <ul>
+                        {% for post in site.posts limit:12 %}
+                        <li><a href="{{ site.url}}{{ post.url }}">{{ post.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    <br />
+                <h2>Infos</h2>
+                    <h3>mySportConnect Channel</h3>
+                    <p>Lancement de l'offre <a href="http://fr.mysportconnect.net">mySportConnect Channel</a>.</p>
+                    <h3>Voeux ICC</h3>
+                    <p>Pour vos voeux 2012 penser à contacter <a href="http://www.agence-icc.fr">l'agence ICC</a>.</p>
+            </div> <!-- end wrapper - span -->
+        </div> <!-- end wrapper - row -->
+    </div>
+</div>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- Remiii / Rémi Barbe's website Sitemap -->
+
+<url>
+  <loc>http://www.remibarbe.fr</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/news</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/contact</loc>
+  <priority>0.80</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/works</loc>
+  <priority>0.70</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/projects</loc>
+  <priority>0.70</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/blog</loc>
+  <priority>0.70</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/cv</loc>
+  <priority>0.60</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.remibarbe.fr/site-map</loc>
+  <priority>0.40</priority>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
+
+

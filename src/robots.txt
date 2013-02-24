@@ -1,0 +1,16 @@
+---
+layout: nil
+---
+User-agent: *
+Disallow: /a/
+Disallow: /asset/
+Disallow: /data/
+Disallow: /dev/
+Disallow: /emails/
+Disallow: /errors/
+Disallow: /legal/
+Disallow: /tmp/
+Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml
+

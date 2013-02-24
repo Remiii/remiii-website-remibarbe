@@ -1,0 +1,26 @@
+---
+layout: default
+name: "home_blog"
+title: "Blog"
+meta_description: " - Vous trouverez ici mon Blog."
+meta_keyword: "blog"
+meta_robots: "index, follow"
+---
+
+<div class="row blog-list">
+    <div class="span12">
+    <div class="page-header">
+            <h1>Blog</h1>
+        </div>
+        <div class="row">
+            <div class="span12">
+                <ul>
+                    {% for post in site.posts %}
+                        <li>{{ post.date | date_to_string }} >> <a href="{{ site.url}}{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
+           </div>
+        </div>
+    </div>
+</div>
+

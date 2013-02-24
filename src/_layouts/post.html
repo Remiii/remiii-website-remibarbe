@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="row blog-post">
+    <div class="span12">
+        <div class="page-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+        <div class="meta">
+            <div class="date-location">
+                {{ page.date | date: "%B %d, %Y "}}{% if page.location != null %} - {{ page.location }}{% endif %}
+            </div>
+            {% if page.tags != null %}
+                <div class="tags">
+                    Tags:&nbsp;
+                    {% for tag in page.tags %}
+                        <span class="label label-info">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+        <div class="post">
+            <div>
+                {{ content }}
+            </div>
+            <div class="fork-and-edit">
+                <em>By the way, if you found a typo, please <a href="http://github.com/remiii/remiii.github.com">fork and edit this post</a>. Thank you so much!</em>
+            </div>
+        </div>
+
+        <!-- start wrapper - Disqus -->
+        <div id="comment">
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'remibarbe'; // required: replace example with your forum shortname
+                var disqus_identifier = '{{ page.url }}';
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            <!-- end wrapper - Disqus -->
+        </div>
+
+    </div>
+</div>

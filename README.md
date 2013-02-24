@@ -1,4 +1,11 @@
-remiii.github.com
-=================
+# Rémi Barbe's website
 
-remiii.github.com
+Source code of remibarbe.fr
+
+# Dev evt
+
+```sh
+$ jekyll --server 10090 --auto
+```
+
+
