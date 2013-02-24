@@ -7,39 +7,45 @@ html
     background-color : #000000 ;
 }
 
+
 body
 {
     padding-top : 60px ;
     padding-bottom : 0px ;
 }
 
+
 .content
 {
     margin-bottom : 50px ;
 }
 
-#nav a:link
+
+#nav a:link a:visited
 {
-color : #BFBFBF ;
+    color : #BFBFBF ;
 }
+
 
 .hero-unit-style
 {
-border : 1px solid #EEEEEE ;
-background : white ;
-height : 290px ;
-         background-image : url('/assets/images/hero.jpg') ;
-         background-repeat : no-repeat ;
-         background-size : 100% ;
-color : white ;
-        font-smooth : always ;
-        margin-bottom : 0px ;
+    border : 1px solid #EEEEEE ;
+    background : white ;
+    height : 290px ;
+    background-image : url('/assets/images/hero.jpg') ;
+    background-repeat : no-repeat ;
+    background-size : 100% ;
+    color : white ;
+    font-smooth : always ;
+    margin-bottom : 0px ;
 }
+
 
 .hero-unit-style h1
 {
     padding-top : 120px ;
 }
+
 
 h1
 {
@@ -47,10 +53,12 @@ h1
     margin-bottom : 10px ;
 }
 
+
 div#hero-twitter-btn
 {
     margin-top : 30px ;
 }
+
 
 .psst-text-large
 {
@@ -59,26 +67,28 @@ div#hero-twitter-btn
     text-shadow : 1px 0 0 #333, 0 -1px 0 #333, 0 1px 0 #333, -1px 0 0 #333 ;
 }
 
+
 .psst-text-medium
 {
     font-size : 18px ;
-color : white ;
-        font-family : 'Cedarville Cursive' ;
+    color : white ;
+    font-family : 'Cedarville Cursive' ;
 }
+
 
 .psst-text-small
 {
     line-height : 30px ;
     font-size : 14px ;
-color : white ;
-        font-family : 'Cedarville Cursive' ;
+    color : white ;
+    font-family : 'Cedarville Cursive' ;
 }
 
 
 .hero-text
 {
-color : white ;
-        text-shadow : 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000 ;
+    color : white ;
+    text-shadow : 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000 ;
 }
 
 
@@ -141,10 +151,12 @@ footer
     border-top : 0 ;
 }
 
+
 div#footer-linkedin
 {
     margin-top : 28px ;
 }
+
 
 footer h3
 {
@@ -152,15 +164,18 @@ footer h3
     color : #999999 ;
 }
 
+
 footer a
 {
     color : white ;
 }
 
+
 footer a:hover
 {
     color : white ;
 }
+
 
 footer #footer-floor
 {
@@ -170,8 +185,10 @@ footer #footer-floor
     margin-bottom : 20px ;
 }
 
+
 footer #footer-floor p
 {
     color : white ;
     font-size : 12px ;
 }
+
