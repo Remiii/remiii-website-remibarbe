@@ -23,7 +23,7 @@ body
 
 #nav a:link a:visited
 {
-    color : #BFBFBF ;
+    color : #BBBBBB ;
 }
 
 
@@ -190,5 +190,10 @@ footer #footer-floor p
 {
     color : white ;
     font-size : 12px ;
+}
+
+.error h1
+{
+    font-size : 200px ;
 }
 
