@@ -14,11 +14,13 @@ meta_robots: "index, follow"
         </div>
         <div class="row">
             <div class="span12">
-                <ul>
-                    {% for post in site.posts %}
-                        <li>{{ post.date | date_to_string }} >> <a href="{{ post.url }}">{{ post.title }}</a></li>
-                    {% endfor %}
-                </ul>
+                {% for post in site.posts %}
+                    <h2>{{ post.date | date: "%b %e, %Y" }}</h2>
+                    <div class="post">
+                        <h3><a title="{{ post.title }}" href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></h3>
+                        <p>{{ post.content | strip_html | truncate: 280 }}<br /><a title="{{ post.title }}" href="{{ post.url }}">Read more</a><p>
+                    </div>
+                {% endfor %}
            </div>
         </div>
     </div>

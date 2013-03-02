@@ -92,18 +92,35 @@ div#hero-twitter-btn
 }
 
 
-.blog-list ul
+.blog-list h2
 {
-    list-style-type : none ;
-    padding-left : 10px ;
+    font-weight : lighter ;
+    color : lightgrey ;
 }
 
-
-.blog-list li
+.blog-list .post
 {
-    padding-bottom : 10px ;
+    padding-top : 0px ;
+    padding-right : 40px ;
+    padding-bottom : 20px ;
+    padding-left : 40px ;
 }
 
+.blog-list h3 a
+{
+    color : black ;
+}
+
+.blog-list p
+{
+    color : black ;
+}
+
+.blog-list p a
+{
+    color : black ;
+    text-decoration : underline ;
+}
 
 .blog-post .meta
 {
