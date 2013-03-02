@@ -92,9 +92,10 @@ div#hero-twitter-btn
 }
 
 
-.blog-list h2
+.blog-list .date
 {
     font-weight : lighter ;
+    font-size : 20px ;
     color : lightgrey ;
 }
 
@@ -106,9 +107,20 @@ div#hero-twitter-btn
     padding-left : 40px ;
 }
 
-.blog-list h3 a
+.blog-list h2
+{
+    font-size : 30px ;
+    margin-bottom : 0px ;
+}
+
+.blog-list h2 a
 {
     color : black ;
+}
+
+.blog-list .tags
+{
+    margin-bottom : 15px ;
 }
 
 .blog-list p
@@ -130,7 +142,9 @@ div#hero-twitter-btn
 
 .blog-post .date-location
 {
-color : gray ;
+    font-weight : lighter ;
+    font-size : 20px ;
+    color : lightgrey ;
 }
 
 

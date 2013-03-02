@@ -15,9 +15,17 @@ meta_robots: "index, follow"
         <div class="row">
             <div class="span12">
                 {% for post in site.posts %}
-                    <h2>{{ post.date | date: "%b %e, %Y" }}</h2>
+                    <div class="date">{{ post.date | date: "%b %e, %Y" }}</div>
                     <div class="post">
-                        <h3><a title="{{ post.title }}" href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></h3>
+                        <h2><a title="{{ post.title }}" href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></h2>
+                        {% if post.tags != null %}
+                            <div class="tags">
+                                <i class="icon-tags"></i>&nbsp;Tags:&nbsp;
+                                {% for tag in post.tags %}
+                                    <span class="label label-info">{{ tag }}</span>
+                                {% endfor %}
+                            </div>
+                        {% endif %}
                         <p>{{ post.content | strip_html | truncate: 280 }}</p>
                         <p><a title="{{ post.title }}" href="{{ post.url }}">Read more</a></p>
                     </div>
