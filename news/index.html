@@ -47,7 +47,7 @@ meta_robots: "index, follow"
             <div class="span5 offset1 blog-news">
                 <h2>Blog</h2>
                     <ul>
-                        {% for post in site.posts limit:12 %}
+                        {% for post in site.posts limit:15 %}
                         <li><a href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></li>
                         {% endfor %}
                     </ul>
