@@ -91,6 +91,10 @@ div#hero-twitter-btn
     text-shadow : 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000 ;
 }
 
+.blog-news li
+{
+    list-style-type : none ;
+}
 
 .blog-list .date
 {
