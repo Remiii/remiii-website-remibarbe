@@ -186,10 +186,15 @@ footer
     border-top : 0 ;
 }
 
-
-div#footer-linkedin
+footer #linkedin
 {
-    margin-top : 28px ;
+    margin-top : 20px ;
+    margin-bottom : 20px ;
+}
+
+footer #craft-logo
+{
+    margin-top : 5px ;
 }
 
 
