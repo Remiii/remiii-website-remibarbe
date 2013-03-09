@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fin de la loi Hadopi : le revers
+title: Fin de la loi Hadopi - le revers
 ---
 
 Panique à bord. L’explosion de la riposte graduée à travers un simple amendement au Paquet Télécom continue à provoquer du bruit.

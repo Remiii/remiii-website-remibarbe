@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seth Godin : soyez remarquable, trouvez le public qui est susceptible de se passionner pour votre produit, et donnez lui ce qu'il veut
+title: Seth Godin - soyez remarquable, trouvez le public qui est susceptible de se passionner pour votre produit, et donnez lui ce qu'il veut
 ---
 
 Vous l'avez souvent lu dans nos lignes, le premier trésor d'Apple, avant même ses innovations et ses brevets, c'est son image de marque. Pourtant, l'entreprise parvient à bichonner son image sans avoir l'air d'y toucher, sans effort visible, sans plan de com' tonitruant, de quoi faire figure de tour de force.  

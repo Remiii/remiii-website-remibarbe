@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loi HADOPI : Le meurtre de l'esprit libre sur Internet.
+title: Loi HADOPI - Le meurtre de l'esprit libre sur Internet.
 ---
 
 Christine Albanel a présenté au conseil des ministres le projet de loi HADOPI (d’après le rapport Olivennes : ex-patron de la Fnac, actuel directeur du Nouvel Obs) pour dissuader les internautes de télécharger illégalement des œuvres en utilisant ce qu’ils appellent : la riposte graduée. La riposte (au téléchargement) est graduée puisqu’un mail d’avertissement est d’abord envoyé massivement par une machine, puis un deuxième et si l’internaute continue à télécharger, son abonnement Internet peut être coupé jusqu’à 1 an.  

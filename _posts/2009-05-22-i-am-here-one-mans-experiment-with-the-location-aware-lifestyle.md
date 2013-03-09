@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Am Here: One Man’s Experiment With the Location-Aware Lifestyle
+title: I Am Here - One Man’s Experiment With the Location-Aware Lifestyle
 ---
 
 <img src="/assets/images/blog/Couvertures/lp_guineapig_f.jpg" alt="" />  

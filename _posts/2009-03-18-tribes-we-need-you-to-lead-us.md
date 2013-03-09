@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tribes : We Need You to Lead Us
+title: Tribes - We Need You to Lead Us
 ---
 
 <img src="/assets/images/blog/Couvertures/CouvLivreTribesGodin.jpg" alt="" />  
