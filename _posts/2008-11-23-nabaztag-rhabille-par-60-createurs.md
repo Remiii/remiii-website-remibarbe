@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Nabaztag rhabillé par 60 créateurs 
+title: Nabaztag rhabillé par 60 créateurs
+location: Paris Area, France
+tags:
+    - geek
+    - nabaztag
 ---
 
 <img src="/assets/images/blog/Robotics/NabaztagCreateurs.jpg" alt="" />

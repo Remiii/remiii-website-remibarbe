@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Blog plus tweets trop :-)
+location: Angers Area, France
+tags:
+    - twitter
+    - geek
 ---
 
 <img src="/assets/images/blog/Logos/Twitter_logo.png" alt="" />  

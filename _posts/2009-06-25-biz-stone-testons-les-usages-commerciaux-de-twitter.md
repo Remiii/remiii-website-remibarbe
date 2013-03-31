@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Biz Stone - &quot;Testons les usages commerciaux de Twitter&quot;
+location: Angers Area, France
+tags:
+    - marketing
+    - twitter
 ---
 
 <img src="/assets/images/blog/Sites/twitter.jpg" alt="" />  

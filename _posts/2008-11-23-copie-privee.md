@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Copie privée
+location: Angers Area, France
+tags:
+    - geek
 ---
 
 Lorsque le conseil d'état a obligé les ayants droit à revoir leurs mode de calcul de la copie privée sans tenir compte du piratage, ce qui est illégal, ces derniers revanchards ont annoncé qu'ils allaient certainement l'augmenter afin de tenir compte des réalités de cette copie.  

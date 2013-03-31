@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Tribes - We Need You to Lead Us
+location: Bordeaux Area, France
+tags:
+    - book
+    - marketing
+    - business
 ---
 
 <img src="/assets/images/blog/Couvertures/CouvLivreTribesGodin.jpg" alt="" />  

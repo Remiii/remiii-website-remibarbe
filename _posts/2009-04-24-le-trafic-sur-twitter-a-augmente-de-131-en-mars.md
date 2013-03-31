@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Le trafic sur Twitter a augmenté de 131% en mars
+location: Angers Area, France
+tags:
+    - twitter
+    - marketing
+    - geek
 ---
 
 <img src="/assets/images/blog/Sites/twitter-trend-apr09-comscore.1239867570.gif" alt="" />  

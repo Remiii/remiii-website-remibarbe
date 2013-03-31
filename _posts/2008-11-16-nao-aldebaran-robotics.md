@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Nao / Aldebaran Robotics
+location: Angers Area, France
+tags:
+    - geek
+    - nao
+    - aldebaran
+    - robotics
 ---
 
 Le projet a été lancé début 2005 et vise à mettre à la disposition du grand public, pour un prix abordable, un robot humanoïde disposant de fonctions mécaniques, électroniques et cognitives dignes des prototypes de recherche (voir graphique ci-dessous). Nao devrait être disponible auprès du grand public fin 2009.  

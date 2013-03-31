@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Les vidéos de TED deviennent multilingues
+location: Paris Area, France
+tags:
+    - ted
+    - geek
 ---
 
 <img src="/assets/images/blog/Logos/ted_logo.gif" alt="" />  

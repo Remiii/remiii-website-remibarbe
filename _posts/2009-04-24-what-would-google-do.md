@@ -1,6 +1,12 @@
 ---
 layout: post
 title: What Would Google do ?
+location: Angers Area, France
+tags:
+    - book
+    - google
+    - marketing
+    - free-software
 ---
 
 <img src="/assets/images/blog/Couvertures/whatwouldgoogledo.jpg" alt="" />  

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: La loi HADOPI est rejetée
+location: Angers Area, France
+tags:
+    - hadopi
+    - geek
 ---
 
 Contre toute attente et à la plus grande surprise de tous, même des plus résignés, les députés présents dans l'hémicycle de l'assemblée nationale ont rejeté le texte de la loi Hadopi dans son intégralité.  

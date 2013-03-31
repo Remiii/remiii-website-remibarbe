@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Aka-aki - réseau social &quot;géolocalisé&quot;
+location: Angers Area, France
+tags:
+    - geek
 ---
 
 <img src="/assets/images/blog/Sites/aka-aki-homepage.png" alt="" />  
