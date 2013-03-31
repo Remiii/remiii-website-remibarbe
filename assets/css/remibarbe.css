@@ -91,10 +91,18 @@ div#hero-twitter-btn
     text-shadow : 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000 ;
 }
 
+
+.blog-news ul
+{
+    margin-left : 0px ;
+}
+
+
 .blog-news li
 {
     list-style-type : none ;
 }
+
 
 .blog-list .date
 {
@@ -102,6 +110,7 @@ div#hero-twitter-btn
     font-size : 20px ;
     color : lightgrey ;
 }
+
 
 .blog-list .post
 {
@@ -111,32 +120,38 @@ div#hero-twitter-btn
     padding-left : 40px ;
 }
 
+
 .blog-list h2
 {
     font-size : 30px ;
     margin-bottom : 0px ;
 }
 
+
 .blog-list h2 a
 {
     color : black ;
 }
+
 
 .blog-list .tags
 {
     margin-bottom : 15px ;
 }
 
+
 .blog-list p
 {
     color : black ;
 }
+
 
 .blog-list p a
 {
     color : black ;
     text-decoration : underline ;
 }
+
 
 .blog-post .meta
 {
@@ -171,10 +186,28 @@ div#hero-twitter-btn
 }
 
 
+.blog-post .post-social
+{
+    margin-bottom : 35px ;
+}
+
+
 .blog-post .comment
 {
     margin-top : 15px ;
     margin-bottom : 20px ;
+}
+
+
+.blog-infos ul
+{
+    margin-left : 0px ;
+}
+
+
+.blog-infos li
+{
+    list-style-type : none ;
 }
 
 
@@ -186,11 +219,13 @@ footer
     border-top : 0 ;
 }
 
+
 footer #linkedin
 {
     margin-top : 20px ;
     margin-bottom : 20px ;
 }
+
 
 footer #craft-logo
 {

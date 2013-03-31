@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="row blog-post">
-    <div class="span12">
+    <div class="span7">
         <div class="page-header">
             <h1>{{ page.title }}</h1>
         </div>
@@ -29,6 +29,14 @@ layout: default
             </div>
         </div>
 
+        <!-- start wrapper - post social -->
+        <div class="post-social">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-text="{{ page.title }}" data-via="Remiii_">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <iframe src="http://www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}" scrolling="no" frameborder="0" style="border:none; width:470px; height:24px"></iframe>
+        </div>
+        <!-- end wrapper - post social -->
+
         <!-- start wrapper - Disqus -->
         <div id="comment">
             <div id="disqus_thread"></div>
@@ -46,8 +54,24 @@ layout: default
             </script>
             <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
             <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            <!-- end wrapper - Disqus -->
         </div>
+        <!-- end wrapper - Disqus -->
 
     </div>
+
+    <div class="span4 offset1 blog-infos">
+        <h2>RSS</h2>
+        <ul>
+            <li><a href="/blog/atom.xml">Flux ATOME</a></li>
+            <li><a href="/blog/atom.xml">Flux RSS</a></li>
+        </ul>
+        <h2>Autres posts</h2>
+        <ul>
+            {% for post in site.posts limit:20 %}
+                <li><a href="{{ post.url }}">{{ post.title | truncate: 40 }}</a></li>
+            {% endfor %}
+        </ul>
+        <!-- <h2>Tags</h2> -->
+    </div>
+
 </div>

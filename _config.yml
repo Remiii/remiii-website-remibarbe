@@ -6,15 +6,15 @@ pygments: true
 destination: ./_site
 
 #url: http://localhost:10090
-url: http://remiii.github.com
-#url: http://www.remibarbe.fr
+#url: http://remiii.github.com
+url: http://remibarbe.fr
 
 author:
     name: Rémi Barbe
     github: remiii
     twitter: Remiii_
 
-production_url: http://remiii.github.com
+production_url: http://remibarbe.fr
 
 permalink: /blog/:year/:month/:day/:title
 
