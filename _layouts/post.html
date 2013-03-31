@@ -15,7 +15,7 @@ layout: default
                 <div class="tags">
                     <i class="icon-tags"></i>&nbsp;Tags:&nbsp;
                     {% for tag in page.tags %}
-                        <span class="label label-info">{{ tag }}</span>
+                        <a href="/blog/tag/{{ tag }}"><span class="label label-info">{{ tag }}</span></a>
                     {% endfor %}
                 </div>
             {% endif %}
