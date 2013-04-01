@@ -1,6 +1,10 @@
 ---
 layout: post
 title: France Inter et les logiciels libres
+location: Angers Area, France
+tags:
+    - geek
+    - free-software
 ---
 
 Pour faire suite à la <a href="http://linuxfr.org/~alci/26815.html" hreflang="fr">news sur linux.fr</a>, nous avons été nombreux à être choqués en <a href="http://www.tv-radio.com/ondemand/france_inter/ESPRIT/ESPRIT20080620.ram" hreflang="fr">écoutant</a> l’émission “L’esprit critique” sur France inter. En effet, une journaliste faisait un point sur l’existance de l’arsenal répressif contre la violation du droit d’auteur en ces termes :  

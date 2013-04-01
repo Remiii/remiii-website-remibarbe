@@ -1,6 +1,11 @@
 ---
 layout: post
 title: VLC / SVN=&gt;GIT
+location: Angers Area, France
+tags:
+    - geek
+    - vlc
+    - free-softawre
 ---
 
 Now, to check out the VLC repository, use:  

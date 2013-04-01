@@ -1,6 +1,11 @@
 ---
 layout: post
 title: YouTube et Facebook font des bénéfices anémiques
+location: Paris Area, France
+tags:
+    - geek
+    - google
+    - youtube
 ---
 
 La fréquentation des sites de vidéos en ligne et des réseaux sociaux se développe à une vitesse exponentielle. Pour autant, leurs leaders respectifs - YouTube et Facebook - profitent peu de cet énorme capital.

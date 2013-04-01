@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Wikipédia et les entreprises du CAC 40
+location: Angers Area, France
+tags:
+    - geek
+    - wikipedia
+    - business
 ---
 
 Selon l’agence de communication Euro RSCG, "Wikipédia cannibalise l'image des entreprises du CAC 40 et de leurs dirigeants". Soucieuse de la notoriété grandissante de l'encyclopédie communautaire, 9e site le plus consulté au monde, Euro RSCG a décrypté son impact sur l'image des entreprises du CAC 40, en étudiant sa visibilité sur le moteur de recherche Google.

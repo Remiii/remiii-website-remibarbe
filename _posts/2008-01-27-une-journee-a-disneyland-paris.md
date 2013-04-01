@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Une journée à Disneyland Paris
+location: Paris Area, France
+tags:
+    - disneyland
 ---
 
 Voici quelques photos de ma journée de dimanche.  

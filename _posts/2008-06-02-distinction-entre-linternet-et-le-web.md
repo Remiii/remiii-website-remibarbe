@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Distinction entre l’internet et le Web
+location: Angers Area, France
+tags:
+    - geek
+    - web
+    - internet
 ---
 
 Les deux sont souvent confondus, par facilité de langages, et du fait de leur indissociable proximité.  

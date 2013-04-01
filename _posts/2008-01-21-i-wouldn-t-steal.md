@@ -1,6 +1,9 @@
 ---
 layout: post
 title: I wouldn't steal
+location: Angers Area, France
+tags:
+    - geek
 ---
 
 Whenever you rent a movie, the multinational media industry forces you to watch their propaganda. They claim that "downloading movies is the same as snatching bags, stealing cars or shoplifting". That’s simply not true – making a copy is fundamentally different from stealing.  

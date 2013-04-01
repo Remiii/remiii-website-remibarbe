@@ -1,6 +1,9 @@
 ---
 layout: post
 title: L'écosystème de Silicon Valley est-il pourri?
+location: Angers Area, France
+tags:
+    - business
 ---
 
 C’est en tous cas ce que nous dit Judy Estrin, dans un livre qui commence à faire du bruit dans le Landernau local (si j’ose dire).

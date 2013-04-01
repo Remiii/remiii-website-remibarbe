@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Que deviendra le web 2.0 en 2008
+location: Paris Area, France
+tags:
+    - web
+    - geek
 ---
 
 La grande question que tout le monde se pose pour 2008 c’est de savoir ce qu’il adviendra du fameux <a href="http://fr.wikipedia.org/wiki/Web_2" hreflang="fr">web 2.0</a>, tant décrié à sa naissance mais qui gambade allègrement dans sa quatrième année. La participation des utilisateurs s’accroît et les entreprises intéressées par ce marché se multiplient.  

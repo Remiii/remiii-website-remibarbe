@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 2ème Forum eMarketing à Paris
+location: Paris Area, France
+tags:
+    - emarketing
+    - business
 ---
 
 <img src="/assets/images/blog/Logos/logo-emarketing2008.jpg" alt="" />  

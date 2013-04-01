@@ -1,6 +1,10 @@
 ---
 layout: post
 title: What's In It for Me? Benefits from Open Sourcing Code
+location: Angers Area, France
+tags:
+    - geek
+    - free-software
 ---
 
 <img src="/asstes/images/assets/images/blog/ConfGoogle_1/Image 1.png" alt="" />

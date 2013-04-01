@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Nous ne lisons pas…
+title: Nous ne lisons pas...
+location: Angers Area, France
+tags:
+    - book
 ---
 
 Nous nous contentons de parcourir ou balayer (to scan en anglais) les textes qui nous sont soumis online. Cette affirmation formulée depuis longtemps par Jakob Nielsen, le gourou de l’utilisabilité (voir cette <a href="http://www.useit.com/alertbox/9710a.html">recherche antérieure</a>), vient d’être <a href="http://www.useit.com/alertbox/percent-text-read.html">confirmée</a> une fois de plus par une étude qui apporte quelques précisions utiles:  

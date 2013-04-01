@@ -1,6 +1,12 @@
 ---
 layout: post
-title: FOSDEM / GUPnP : UPnP made easy
+title: FOSDEM / GUPnP - UPnP made easy
+location: Angers Area, France
+tags:
+    - geek
+    - gnpnt
+    - upnp
+    - free-software
 ---
 
 Meeting (Saturday : 18h15) on GUPnP at FOSDEM.  

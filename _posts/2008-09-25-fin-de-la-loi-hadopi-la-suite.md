@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Fin de la loi Hadopi - la suite
+location: Angers Area, France
+tags:
+    - geek
 ---
 
 C’est un sacré coup dans les dents que le Parlement européen a mis au système de riposte graduée imaginée par la France pour lutter contre le piratage sur Internet. La riposte graduée, au cœur du projet de loi Création et Internet, consiste à envoyer un message d’avertissement aux internautes téléchargeant illégalement des œuvres protégées. Puis un autre averto en cas de récidive. Et, si l’internaute persévère, intervient la coupure complète de l’accès à Internet pendant plusieurs mois. Le tout étant mis en place sous le contrôle d’une autorité administrative créée pour l’occasion : Hadopi.  

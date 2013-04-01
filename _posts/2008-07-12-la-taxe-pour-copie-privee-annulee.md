@@ -1,6 +1,9 @@
 ---
 layout: post
 title: La taxe pour copie privée annulée
+location: Angers Area, France
+tags:
+    - geek
 ---
 
 A priori, ce titre sonne comme une bonne nouvelle pour tous les acheteurs honnêtes qui ne comprenaient et comprennent toujours pas pourquoi ils devraient payer une taxe en achetant un baladeur numérique pour compenser le piratage, alors qu'ils ont toujours acheté légalement leurs musiques et films.  

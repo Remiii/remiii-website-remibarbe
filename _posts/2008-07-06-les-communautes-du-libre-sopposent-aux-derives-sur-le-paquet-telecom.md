@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Les communautés du Libre s’opposent aux dérives sur le paquet télécom
+location: Angers Area, France
+tags:
+    - geek
+    - free-software
 ---
 
 Alors que les citoyens partent en vacances, les eurodéputés s’apprêtent à adopter un dispositif de contrôle des communications privées. Les communautés du Libre, réunies à Mont de Marsan pour leurs neuvièmes rencontres mondiales, alertent les responsables politiques et tous les citoyens européens sur un projet qui menace les libertés individuelles.  

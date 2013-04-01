@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Courrier International et Web 2.0
+location: Angers Area, France
+tags:
+    - web
+    - courrier-internaltional
+    - web2
 ---
 <img src="/assets/images/blog/Couvertures/CourrierInter/CourrierInternationalHorsSerieWeb2.0.jpg" alt="" /><br />
 

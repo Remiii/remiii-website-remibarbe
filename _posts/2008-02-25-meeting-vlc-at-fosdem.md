@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Meeting VLC at FOSDEM
+location: Angers Area, France
+tags:
+    - geek
+    - fosdem
+    - vlc
+    - free-software
 ---
 
 <img src="/assets/images/blog/Salon/FOSDEM2008/IMG_0427.jpg" alt="" />  

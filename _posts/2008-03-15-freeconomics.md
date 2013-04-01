@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  Freeconomics
+location: Angers Area, France
+tags:
+    - geek
+    - book
 ---
 
 Chris Anderson, poursuit sa quête de la martingale dans l‘économie du web et pense l‘avoir trouvée avec le gratuit. Ça se dit “free“ en anglais et permet de parler de freeconomics. En voici un avant-goût:  

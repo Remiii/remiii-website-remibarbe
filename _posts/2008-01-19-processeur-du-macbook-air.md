@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Processeur du MacBook Air
+location: Angers Area, France
+tags:
+    - geek
+    - apple
 ---
 
 Le dernier-né d’<a href="http://www.apple.com/fr" hreflang="fr">Apple</a> le <a href="http://www.apple.com/fr/macbookair/">MacBook Air</a> embarque un nouveau processeur d’<a href="http://www.intel.com">Intel</a>.  

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: My Start-up Life by Ben Casnocha
+location: Angers Area, France
+tags:
+    - geek
+    - start-up
 ---
 
 La volonté, la capacité d’entreprendre et, surtout, le fait de se lancer vraiment, sont des qualités essentielles (et pas seulement liées à l’argent). Il s’agit, en fait de réunir des ressources et de créer quelque chose de plus, de nouveau.  

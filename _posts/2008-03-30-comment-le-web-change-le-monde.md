@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Comment le web change le monde
+location: Angers Area, France
+tags:
+    - geek
+    - book
 ---
 
 <img src="/assets/images/blog/Couvertures/CouvLivreCommentLeWebChangeLeMonde_1.gif" alt="" />  

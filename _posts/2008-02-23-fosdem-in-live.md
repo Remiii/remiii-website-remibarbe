@@ -1,6 +1,11 @@
 ---
 layout: post
 title: FOSDEM in live
+location: Angers Area, France
+tags:
+    - geek
+    - fosdem
+    - free-software
 ---
 
 <img src="/assets/images/blog/Salon/DSCN7756.png" alt="" />  

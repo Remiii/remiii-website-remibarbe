@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Vidéo du salon &quot;Solutions Linux 2008 à Paris&quot; sur O1.net
+location: Angers Area, France
+tags:
+    - geek
+    - linux
+    - 01net
+    - free-software
 ---
 
 <img src="/assets/images/blog/Sites/01.net.jpg" alt="" />  

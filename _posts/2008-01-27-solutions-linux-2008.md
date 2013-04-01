@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Solutions Linux 2008
+location: Angers Area, France
+tags:
+    - geek
+    - linux
+    - free-software
 ---
 
 <img src="/assets/images/blog/Logos/SolutionsLinux2008.png" alt="" />  

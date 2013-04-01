@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Le téléphone sonne pour le Logiciel Libre
+location: Angers Area, France
+tags:
+    - geek
+    - free-software
 ---
 
 Mardi 1er juillet à 19h20 à l’occasion de l’ouverture des <a href="http://2008.rmll.info/">RMLL 2008</a> à Mont de Marsan, l’émission d’Alain Bedouet "<a href="http://www.radiofrance.fr/franceinter/em/letelephonesonne/" hreflang="fr">Le téléphone sonne</a>" a été consacrée au Logiciel Libre.  

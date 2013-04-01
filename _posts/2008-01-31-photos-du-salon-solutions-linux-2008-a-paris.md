@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Photos du salon &quot;Solutions Linux 2008 à Paris&quot;
+location: Angers Area, France
+tags:
+    - geek
+    - link
+    - free-software
 ---
 
 <img src="/assets/images/blog/Salon/SolLinux2008/DSCN7651.JPG" alt="" />  

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Fin de la loi Hadopi - le revers
+location: Angers Areas, France
+tags:
+    - geek
 ---
 
 Panique à bord. L’explosion de la riposte graduée à travers un simple amendement au Paquet Télécom continue à provoquer du bruit.

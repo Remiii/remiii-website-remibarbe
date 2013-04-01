@@ -1,6 +1,10 @@
 ---
 layout: post
 title: CeBIT Time
+location: Angers Area, France
+tags:
+    - geek
+    - cebit
 ---
 
 <img src="/assets/images/blog/Salon/CEBIT2008/LogoCEBIT2008_1.png" alt="" />  

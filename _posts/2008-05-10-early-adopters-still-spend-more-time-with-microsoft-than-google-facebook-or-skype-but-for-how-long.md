@@ -1,6 +1,14 @@
 ---
 layout: post
 title: Early Adopters Still Spend More Time With Microsoft Than Google, Facebook, or Skype. But For How Long?
+location: Angers Area, France
+tags:
+    - geek
+    - skype
+    - facebook
+    - google
+    - microsoft
+    - early-adopters
 ---
 
 Les early adopters, ces fanas de technologies qui essayent avant tout le monde les nouveaux programmes et les nouveaux gadgets, sont être très conservateurs. :(  

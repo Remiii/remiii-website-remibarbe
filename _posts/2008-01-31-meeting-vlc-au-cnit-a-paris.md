@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Meeting VLC au CNIT à Paris
+location: Angers Area, France
+tags:
+    - geek
+    - vlc
+    - cnit
+    - free-software
 ---
 
 <img src="/assets/images/blog/VLC/meetingVLC_1.jpg" alt="" />  

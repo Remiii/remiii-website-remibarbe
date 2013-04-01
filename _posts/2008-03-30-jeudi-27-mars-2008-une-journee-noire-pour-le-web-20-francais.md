@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Jeudi 27 mars 2008 / Une journée noire pour le web 2.0 français
+location: Angers Area, France
+tags:
+    - geek
 ---
 
 Eric Dupin blogueur, fondateur du site <a href="www.fuzz.fr" hreflang="fr">Fuzz</a>, sur lequel les internautes peuvent publier des liens vers d'autres sites et les noter, vient de perdre le procès qui l'opposait à l'acteur Olivier Martinez.  

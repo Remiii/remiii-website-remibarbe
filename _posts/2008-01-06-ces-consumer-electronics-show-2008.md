@@ -1,6 +1,10 @@
 ---
 layout: post
 title: CES (Consumer Electronics Show) 2008
+location: Angers Area, France
+tags:
+    - ces
+    - geek
 ---
 
 Le plus grand salon de l'électronique grand public débute demain à Las Vegas.  

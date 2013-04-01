@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Keynote Apple du 15 Janvier 2008 / &quot;There's something in the air&quot;
+location: Angers Area, France
+tags:
+    - geek
+    - apple
 ---
 
 <img src="/assets/images/blog/Couvertures/Apple-20080114-203611.jpg" alt="" />  
