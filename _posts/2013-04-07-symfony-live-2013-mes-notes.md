@@ -180,9 +180,9 @@ Liste des conférences que je n'ai pas pu suivre :
 * Aller plus loin avec le JMSSerializer (Adrien Brault) [Lien vers les diapos de la présentation](https://t.co/B5k5yuSHNW)
 
 
-![Logo Symfony Live 2013](/assets/images/blog/image00003.jpg)<br />
+![Logo Symfony Live 2013](/assets/images/blog/image00003.png)<br />
 <br />
-![Logo Symfony Live 2013](/assets/images/blog/image00004.jpg)<br />
+![Logo Symfony Live 2013](/assets/images/blog/image00004.png)<br />
 <br />
 
 Rémi (aka Remiii)
