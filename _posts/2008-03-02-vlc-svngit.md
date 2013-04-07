@@ -5,7 +5,7 @@ location: Angers Area, France
 tags:
     - geek
     - vlc
-    - free-softawre
+    - free-software
 ---
 
 Now, to check out the VLC repository, use:  
