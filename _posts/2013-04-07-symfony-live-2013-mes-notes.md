@@ -127,7 +127,7 @@ BlaBlaCar, le premier réseau de covoiturage en Europe, a migré sa plateforme s
 * Continuous Intergartion => Bamboo (ou Travis)
 * Behad
 
-[Lien vers les diapos de la présentation](moquet.net/talks/symfony-live-2013)
+[Lien vers les diapos de la présentation](http://moquet.net/talks/symfony-live-2013)
 
 <br />
 ## Comment organiser ses templates twig ?
@@ -136,7 +136,7 @@ Présentateur : Grégoire Pineau (aka Lyrix) - [GitHub](https://github.com/lyrix
 
 Il existe beaucoup de moyens de partager du code avec twig. Nous verrons la différence entre "use", "include" et "embed". Tous ces opérateurs existent pour nous aider à éviter la duplication de code. Nous verrons aussi comment créer un système de thème grâce au système de fichiers, puis grâce aux blocks
 
-[Lien vers les diaps de la présentation](http://lyrixx.github.io/SFLive-Paris2013-Twig/#/comment-organiser-ses-templates-twig)
+[Lien vers les diapos de la présentation](http://lyrixx.github.io/SFLive-Paris2013-Twig/#/comment-organiser-ses-templates-twig)
 
 <br />
 ## Silex, retour sur un an d'utilisation
