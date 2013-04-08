@@ -68,7 +68,7 @@ Présentateur : Gullaume Potier (aka gpot) - [Twitter](https://twitter.com/guill
 
 Chez @Wisembly, nous utilisons Symfony2 depuis ses débuts. Récemment, nous avons arrêté de l'utiliser de façon monolithique pour construire une vraie couche REST + push socket.io dialoguant avec nos apps front en backbone.js. Nous utilisons notre librairie open-source http://elephant.io pour nous connecter via Symfony à notre serveur de push socket.io. Nos APIs sont documentées ici: http://wisembly.com/fr/api/doc Le but de cette présentation est de: * Comment tirer partie du Routeur, des FormTypes et du Validator Symfony pour faire une excellente API REST * Comment implémenter côté back des événements push socket.io sur ces APIs * Réfléchir à la place et au rôle d'un Back Syfmony dans l'écosystème d'une app js / push
 
-[Lien vers les diapos de la présentation](http://t.co/w501E5uSjv)
+[Lien vers les diapos de la présentation](http://fr.slideshare.net/guillaumepotier/symfony2-ba)
 
 <br />
 ## Pourquoi Symfony est OpenSource
