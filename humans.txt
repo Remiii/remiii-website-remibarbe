@@ -6,26 +6,36 @@
    /_/ |_|\___/_/ /_/ /_/_/_____/\__,_/_/  /_.___/\___/|__/|__/\___/_.___/____/_/\__/\___/
 
 
-/* TEAM */
 
-    Name: Rémi Barbe
-    Contact: free-software <<at>> remibarbe <<dot>> fr
-    Twitter: @Remiii_
-    From: Bordeaux/Paris, France
+#####################
+# TEAM
+#   ----------------
+#   Name:               Remi Barbe (aka Remiii)
+#   Contact:            free-software <<at>> remibarbe <<dot>> fr
+#   Twitter:            @Remiii_
+#   GitHub:             github.com/remiii
+#   From:               Bordeaux/Paris, France
+####################
 
 
-/* THANKS */
+####################
+# THANKS
+#   ----------------
+#   #TODO
+####################
 
-    -
 
-
-/* SITE */
-
-    Last update: -
-    Language: French
-    Doctype: HTML5
-    IDE: VIM - GNU/LINUX
-    Generator: Jekyll (Ruby)
-    SCM: Git
-    Hosting: GitHub
+####################
+# SITE
+#   ----------------
+#   Last update:        -
+#   Language:           French
+#   HTML:               HTML5
+#   CSS:                CSS3 / TwitterBootstrap
+#   Javascript:         jQuery
+#   IDE:                VIM - GNU/LINUX
+#   Generator:          Jekyll (Ruby)
+#   SCM:                Git
+#   Hosting:            GitHub
+####################
 
