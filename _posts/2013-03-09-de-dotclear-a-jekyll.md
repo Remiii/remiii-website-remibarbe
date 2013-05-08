@@ -13,7 +13,7 @@ tags:
 
 ![Logo Jekyll](/assets/images/blog/image00001.jpg)<br />
 <br />
-Lorsque j'ai décidé de créer la première version dynamique de mon blog, les solutions efficaces étaient plutôt limitées. En effet, Wordpress et Dotclear dominé alors le web français et les produits clé en main étaient hideux et couverts de publicités. Depuis les logiciels libres et les forges de code se sont beaucoup démocratisés et les solutions packagées sont tout simplement superbes... Tumbler en est un bon exemple. Mais je ne suis pas là pour faire une étude des différentes solutions, vous trouverez à cette fin des tonnes de très bons articles sur le web. Parmi toutes ces solutions, pourquoi j’ai choisi Jelyll ?
+Lorsque j'ai décidé de créer la première version dynamique de mon blog, les solutions efficaces étaient plutôt limitées. En effet, Wordpress et Dotclear dominé alors le web français et les produits clé en main étaient hideux et couverts de publicités. Depuis les logiciels libres et les forges de code se sont beaucoup démocratisés et les solutions packagées sont tout simplement superbes... Tumblr en est un bon exemple. Mais je ne suis pas là pour faire une étude des différentes solutions, vous trouverez à cette fin des tonnes de très bons articles sur le web. Parmi toutes ces solutions, pourquoi j’ai choisi Jelyll ?
 
 Pour ceux qui ne connaissent pas Jekyll, c' est un générateur de site statique écrit en Ruby. Le code est assez léger et la "gem" n’a pas beaucoup de dépendances. Le principe est de créer des templates et des pages de contenu (articles…) ensuite Jekyll va se charger de compiler tout ça en une arborescence de dossiers et de fichiers HTML, CSS…
 
