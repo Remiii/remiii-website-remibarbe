@@ -71,7 +71,11 @@ layout: default
                 <li><a href="{{ post.url }}">{{ post.title | truncate: 40 }}</a></li>
             {% endfor %}
         </ul>
-        <!-- <h2>Tags</h2> -->
+        <h2>Cloud Tag</h2>
+        {% for tag in site.tags %}
+                <a href="/blog/tag/{{ tag | first }}" style="font-size:{{tag | last | size | times:200 | divided_by:site.tags.size | plus:100}}%">{{ tag | first }}</a>&nbsp;
+        {% endfor %}
+        <ul>
     </div>
 
 </div>
