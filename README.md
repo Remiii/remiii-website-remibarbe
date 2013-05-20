@@ -26,7 +26,7 @@ $ mkdir _site
 
 ### Run Jekyll
 ```sh
-$ jekyll --server 10090 --auto --safe --no-lsi --pygments
+$ jekyll serve --config _config.yml,_config-dev.yml
 ```
 
 
@@ -35,3 +35,4 @@ remiii.github.com is licensed under the MIT license (see LICENSE.md file).
 
 #Author
 @Remiii
+
