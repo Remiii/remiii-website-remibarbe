@@ -26,7 +26,7 @@ $ mkdir _site
 
 ### Run Jekyll
 ```sh
-$ jekyll serve --config _config.yml,_config-dev.yml
+$ jekyll serve --config _config.yml,_config-dev.yml --watch
 ```
 
 
