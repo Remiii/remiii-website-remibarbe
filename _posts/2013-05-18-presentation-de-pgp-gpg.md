@@ -36,7 +36,7 @@ Si vous souhaitez m’envoyer des emails, n’hésitez pas à les chiffrer, ma c
 
 <script src="https://gist.github.com/Remiii/5604174.js"> </script>
 
-Enfin,  trouverez l’ensemble de mes clés publiques sur mon dépôt [GitHub mypublickeys](https://github.com/Remiii/mypublickeys).
+Enfin, vous trouverez l’ensemble de mes clés publiques sur mon dépôt [GitHub mypublickeys](https://github.com/Remiii/mypublickeys).
 
 A très bientôt,
 Rémi
