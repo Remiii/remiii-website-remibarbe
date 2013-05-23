@@ -8,7 +8,6 @@ Disallow: /data/
 Disallow: /dev/
 Disallow: /emails/
 Disallow: /errors/
-Disallow: /legal/
 Disallow: /tmp/
 Allow: /
 
