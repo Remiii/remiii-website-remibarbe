@@ -24,6 +24,13 @@ Screen shot.
 $ mkdir _site
 ```
 
+### Edit info in the _config-dev.yml file
+
+```sh
+$ vim _config-dev.yml
+```
+
+
 ### Run Jekyll
 ```sh
 $ jekyll serve --config _config.yml,_config-dev.yml --watch
