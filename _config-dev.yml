@@ -4,3 +4,5 @@ port: 10090
 
 url: http://localhost:10090
 
+future: true
+
