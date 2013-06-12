@@ -31,7 +31,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Bienvenue sur le site web personnel de Rémi Barbe - {{ page.title }}</title>
     <meta http-equiv="Content-Language" content="fr" />
-    <meta name="description" content="Bienvenue sur le site web personnel de Rémi Barbe (aka Remiii){{ page.meta_description }}" />
+    <meta name="description" content="Bienvenue sur le site web personnel de Rémi Barbe (aka Remiii){% if page.meta_descritpion != null %}{{ page.meta_description }}{% else %} - {{ page.title }}{% endif %}" />
     <meta name="keywords" content="rémi, barbe, remi, remibarbe, remibarbe.fr, remiii, remiii_, hec, telecom, paristech, enst, hec paris, eni, enib, cybervia, mysportconnect, web, page, project manager, cto, chef de projet, directeur technique{{ page.meta_keywords }}" />
     <meta name="robots" content="{{ page.meta_robots }}" />
     <meta name="category" content="Internet" />
