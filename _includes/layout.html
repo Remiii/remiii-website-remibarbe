@@ -65,6 +65,11 @@
     <!-- CSS / Bootsrap Twitter -->
     <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="/assets/css/remibarbe.css" rel="stylesheet" />
+    {% for item in page.css %}
+        {% if item == 'jquery-github' %}
+            <link href="/assets/zenorocha/jquery-github/assets/base.css" rel="stylesheet" />
+        {% endif %}
+    {% endfor %}
 
     <!-- Facebook - OpenGraph -->
     <meta property="og:type"            content="blog" />
@@ -211,8 +216,8 @@
 <!-- End Script GoogleAnalytics -->
 
 <!-- Script - Google API Key - Jquery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 
 <!-- Script +1 Google -->
 <script type="text/javascript">
@@ -239,6 +244,21 @@
     });
 </script>
 <!-- End Script Scroll to top -->
+
+{% for item in page.js %}
+    {% if item == 'jquery-github' %}
+    <!-- Script jQuery Github -->
+    <script src="/assets/zenorocha/jquery-github/dist/jquery.github.min.js"></script>
+    <script type="text/javascript">
+        $ ( "[data-repo]" ) . github ( {
+            iconStars:  false ,
+            iconForks:  true ,
+            iconIssues: false
+        } ) ;
+    </script>
+    <!-- End Script jQuery Github -->
+    {% endif %}
+{% endfor %}
 
 </body>
 

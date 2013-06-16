@@ -1,0 +1,3 @@
+[submodule "assets/zenorocha/jquery-github"]
+	path = assets/zenorocha/jquery-github
+	url = git://github.com/zenorocha/jquery-github.git
