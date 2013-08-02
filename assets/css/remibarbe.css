@@ -2,9 +2,10 @@
  * /assets/css/remibarbe.css
  */
 
+
 html
 {
-    background-color : #000000 ;
+    background-color : black ;
 }
 
 
@@ -12,6 +13,12 @@ body
 {
     padding-top : 60px ;
     padding-bottom : 0px ;
+}
+
+
+.navbar-brand
+{
+    max-width : none !important;
 }
 
 
@@ -27,11 +34,10 @@ body
 }
 
 
-.hero-unit-style
+.jumbotron-style
 {
     border : 1px solid #EEEEEE ;
     background : white ;
-    height : 290px ;
     background-image : url('/assets/images/hero.jpg') ;
     background-repeat : no-repeat ;
     background-size : 100% ;
@@ -41,9 +47,11 @@ body
 }
 
 
-.hero-unit-style h1
+.jumbotron-style h1
 {
     padding-top : 120px ;
+    size : 65px ;
+    margin : 0px ;
 }
 
 
@@ -54,9 +62,10 @@ h1
 }
 
 
-div#hero-twitter-btn
+div#jumbotron-twitter-btn
 {
     margin-top : 30px ;
+    height : 32px ;
 }
 
 
@@ -211,6 +220,12 @@ div#hero-twitter-btn
 }
 
 
+.tags a:focus, .tags a:hover
+{
+    color : white ;
+}
+
+
 footer
 {
     margin-top : 20px ;
@@ -271,4 +286,12 @@ footer #footer-floor p
 {
     font-size : 200px ;
 }
+
+
+/* Hack Github */
+.github-box-download
+{
+    min-height : 50px !important;
+}
+
 

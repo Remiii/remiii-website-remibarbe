@@ -8,12 +8,12 @@ meta_robots: "index, follow"
 ---
 
 <div class="row blog-list">
-    <div class="span12">
+    <div class="col-lg-12">
     <div class="page-header">
             <h1>Blog</h1>
         </div>
         <div class="row">
-            <div class="span12">
+            <div class="col-lg-12">
                 {% for post in site.posts %}
                     <div class="date">{{ post.date | date: "%b %e, %Y" }}</div>
                     <div class="post">
