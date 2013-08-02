@@ -31,7 +31,7 @@
 #   Last update:        -
 #   Language:           French
 #   HTML:               HTML5
-#   CSS:                CSS3 / TwitterBootstrap
+#   CSS:                CSS3 / TwitterBootstrap3
 #   Javascript:         jQuery
 #   IDE:                VIM - GNU/LINUX
 #   Generator:          Jekyll (Ruby)
