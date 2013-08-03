@@ -69,11 +69,11 @@ body
     .jumbotron-style h1
     {
         padding-top : 40px ;
-        font-size : 26px ;
+        font-size : 24px ;
     }
     .jumbotron-style p
     {
-        font-size : 14px ;
+        font-size : 10px ;
     }
 }
 
