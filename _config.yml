@@ -1,6 +1,7 @@
 #Github page settings
 lsi: false
 pygments: true
+markdown: rdiscount
 
 destination: ./_site
 
