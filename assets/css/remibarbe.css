@@ -55,6 +55,29 @@ body
 }
 
 
+@media (max-width: 979px)
+{
+    .jumbotron-style h1
+    {
+        padding-top : 80px ;
+    }
+}
+
+
+@media (max-width: 480px)
+{
+    .jumbotron-style h1
+    {
+        padding-top : 40px ;
+        font-size : 30px ;
+    }
+    .jumbotron-style p
+    {
+        font-size : 16px ;
+    }
+}
+
+
 h1
 {
     margin-top : 10px ;
