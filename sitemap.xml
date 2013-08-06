@@ -13,47 +13,47 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/news</loc>
+  <loc>http://remibarbe.fr/news/</loc>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/contact</loc>
+  <loc>http://remibarbe.fr/contact/</loc>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/works</loc>
+  <loc>http://remibarbe.fr/works/</loc>
   <priority>0.70</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/projects</loc>
+  <loc>http://remibarbe.fr/projects/</loc>
   <priority>0.70</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/blog</loc>
+  <loc>http://remibarbe.fr/blog/</loc>
   <priority>0.70</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/cv</loc>
+  <loc>http://remibarbe.fr/cv/</loc>
   <priority>0.60</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/darwin-project</loc>
+  <loc>http://remibarbe.fr/darwin-project/</loc>
   <priority>0.40</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/site-map</loc>
+  <loc>http://remibarbe.fr/site-map/</loc>
   <priority>0.10</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://remibarbe.fr/legal</loc>
+  <loc>http://remibarbe.fr/legal/</loc>
   <priority>0.10</priority>
   <changefreq>weekly</changefreq>
 </url>
