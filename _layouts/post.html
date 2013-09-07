@@ -13,7 +13,7 @@ layout: default
             </div>
             {% if page.tags != null %}
                 <div class="tags">
-                    <i class="icon-tags"></i>&nbsp;Tags:&nbsp;
+                    <span class="glyphicon glyphicon-tags"></span>&nbsp;Tags:&nbsp;
                     {% for tag in page.tags %}
                         <a href="/blog/tag/{{ tag }}"><span class="label label-info">{{ tag }}</span></a>
                     {% endfor %}
