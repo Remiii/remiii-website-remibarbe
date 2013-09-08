@@ -13,7 +13,7 @@ layout: default
             </div>
             {% if page.tags != null %}
                 <div class="tags">
-                    <span class="glyphicon glyphicon-tags"></span>&nbsp;Tags:&nbsp;
+                    <span class="glyphicon glyphicon-tags"></span>&nbsp;Tags&nbsp;:&nbsp;
                     {% for tag in page.tags %}
                         <a href="/blog/tag/{{ tag }}"><span class="label label-info">{{ tag }}</span></a>
                     {% endfor %}
@@ -36,6 +36,15 @@ layout: default
             <iframe src="http://www.facebook.com/plugins/like.php?href={{ site.url }}{{ page.url }}" scrolling="no" frameborder="0" style="border:none; width:470px; height:24px"></iframe>
         </div>
         <!-- end wrapper - post social -->
+
+        <div class="related-posts">
+            <h3>Related&nbsp;Posts</h3>
+            <ul class="list-unstyled">
+                {% for post in site.related_posts limit:3 %}
+                    <li><a title="{{ post.title }}" href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
 
         <!-- start wrapper - Disqus -->
         <div id="comment">

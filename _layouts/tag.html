@@ -16,7 +16,7 @@ layout: default
                             <div class="post">
                                 <h2><a title="{{ post.title }}" href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></h2>
                                 <div class="tags">
-                                    <span class="glyphicon glyphicon-tags"></span>&nbsp;Tags:&nbsp;
+                                    <span class="glyphicon glyphicon-tags"></span>&nbsp;Tags&nbsp;:&nbsp;
                                     {% for alltag in post.tags %}
                                         <a href="/blog/tag/{{ alltag }}"><span class="label label-info">{{ alltag }}</span></a>
                                     {% endfor %}

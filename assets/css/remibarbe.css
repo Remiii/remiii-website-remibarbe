@@ -223,9 +223,20 @@ div#jumbotron-twitter-btn
 
 .blog-post .post-social
 {
+    margin-bottom : 30px ;
+}
+
+
+.blog-post .related-posts
+{
     margin-bottom : 35px ;
 }
 
+
+.blog-post .related-posts ul
+{
+    padding-left : 40px ;
+}
 
 .blog-post .comment
 {
