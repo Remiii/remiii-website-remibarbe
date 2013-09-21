@@ -28,14 +28,14 @@ module Jekyll
     end
 
     def write_tag_index(site, dir, tag)
-      relatedtags = write_relatedtags(site,tag)
+      relatedtags = write_relatedtags(site, tag)
       index = TagIndex.new(site, site.source, dir, tag, relatedtags)
       index.render(site.layouts, site.site_payload)
       index.write(site.dest)
       site.pages << index
     end
 
-    def write_relatedtags(site,tag)
+    def write_relatedtags(site, tag)
       relatedtags = Array.new
       site.posts.each do |post|
         if post.tags.include?(tag)
