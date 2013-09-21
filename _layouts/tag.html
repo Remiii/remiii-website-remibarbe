@@ -21,12 +21,19 @@ layout: default
                                         <a href="/blog/tag/{{ alltag }}"><span class="label label-info">{{ alltag }}</span></a>
                                     {% endfor %}
                                 </div>
-                                <p>{{ post.content | strip_html | truncate: 280 }}</p>
+                                <p>{{ post.content | strip_html | truncate: 400 }}</p>
                                 <p><a title="{{ post.title }}" href="{{ post.url }}">Read more</a></p>
                             </div>
                         {% endif %}
                     {% endfor %}
                 {% endfor %}
+                <h3>// Related tags</h3>
+                <div class="tags">
+                    <span class="glyphicon glyphicon-tags"></span>&nbsp;Tags&nbsp;:&nbsp;
+                    {% for relatedtag in page.relatedtags %}
+                        <a href="/blog/tag/{{ relatedtag }}"><span class="label label-info">{{ relatedtag }}</span></a>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </div>
