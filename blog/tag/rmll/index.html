@@ -89,18 +89,23 @@
 
     <body>
 
-        <div class="navbar navbar-fixed-top navbar-inverse">
+        <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
             <div class="container">
 
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+                <div class="navbar-header">
 
-                <a class="navbar-brand" href="/">Rémi Barbe's website</a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
 
-                <div class="nav-collapse collapse navbar-responsive-collapse">
+                    <a class="navbar-brand" href="/">Rémi Barbe's website</a>
+
+                </div>
+
+                <div class="nav-collapse collapse navbar-ex1-collapse">
                     <ul id="nav" class="nav navbar-nav">
                         <li>
                             <a href="/">Home</a>
@@ -928,7 +933,7 @@ IRC : Remiii sur #remiii (freenode.net)
         </div> <!-- end wrapper - .container -->
 
         <!-- start wrapper - ForkMe on Github -->
-        <a href="https://github.com/remiii/remiii.github.com" class="ribbon hidden-sm" target="_blank" onclick="pageTracker._trackPageview('/github.com/remiii/remi.github.com');"><img style="position: fixed; top: 0; right: 0; border: 0; z-index: 1031;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+        <a href="https://github.com/remiii/remiii.github.com" class="ribbon hidden-sm hidden-xs" target="_blank" onclick="pageTracker._trackPageview('/github.com/remiii/remi.github.com');"><img style="position: fixed; top: 0; right: 0; border: 0; z-index: 1031;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
         <!-- end wrapper - ForkMe on Github -->
 
         <footer>
@@ -949,11 +954,12 @@ IRC : Remiii sur #remiii (freenode.net)
                             <li><a href="/works">Travaux</a></li>
                             <li><a href="/projects">Projets</a></li>
                             <li><a href="/darwin-project">Darwin Project</a></li>
+                            <!--<li><a href="/blog/statistic">Blog statistiques</a></li>-->
                             <li><a href="/site-map">Site map</a></li>
                             <li><a href="/legal">Legal</a></li>
                         </ul>
                     </div> <!-- end wrapper - col -->
-                    <div class="col-12 col-lg-5 hidden-sm">
+                    <div class="col-12 col-lg-5 hidden-sm hidden-xs">
                         <h3>Je m&#039;abonne à la newsletter !</h3>
                         <div id="mc_embed_signup">
                             <form action="http://remibarbe.us2.list-manage.com/subscribe/post?u=041e66ebc437bda3e2c2a8a99&amp;id=85b7363036" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank">
@@ -969,7 +975,7 @@ IRC : Remiii sur #remiii (freenode.net)
                         </div>
                     </div> <!-- end wrapper - col -->
                 </div> <!-- end wrapper - row -->
-                <div class="row hidden-sm" id="linkedin">
+                <div class="row hidden-sm hidden-xs" id="linkedin">
                     <div class="col-12 col-lg-5 col-offset-1">
                         <h3>Rejoignez-moi sur Linkedin...</h3>
                     </div> <!-- end wrapper - span -->
@@ -988,11 +994,11 @@ IRC : Remiii sur #remiii (freenode.net)
                             <p>Rémi BARBE / www.remibarbe.fr</p>
                             <p>2013 - Site web personnel<br />de Rémi BARBE (aka Remiii) - <a href="/legal">CGU</a></p>
                         </div> <!-- end wrapper - col -->
-                        <div class="col-12 col-lg-3 hidden-sm">
+                        <div class="col-12 col-lg-3 hidden-sm hidden-xs">
                             <iframe src="http://www.facebook.com/plugins/like.php?href=http://remibarbe.fr" scrolling="no" frameborder="0" style="border:none; width:220px; height:28px"></iframe>
                             <g:plusone size="medium" annotation="inline"></g:plusone>
                         </div> <!-- end wrapper - col -->
-                        <div class="col-12 col-lg-3 hidden-sm">
+                        <div class="col-12 col-lg-3 hidden-sm hidden-xs">
                             <a href="https://twitter.com/Remiii_" class="twitter-follow-button">Follow @Remiii_</a><script src="//platform.twitter.com/widgets.js" type="text/javascript"></script><br />
                             <span class="psst-text-small">&uarr;&nbsp;follow me :-)</span>
                         </div> <!-- end wrapper - col -->
@@ -1053,7 +1059,10 @@ IRC : Remiii sur #remiii (freenode.net)
 
         
 
+        <script src="/assets/chartjs/chart.min.js"></script>
+
     </body>
 
 </html>
+
 
