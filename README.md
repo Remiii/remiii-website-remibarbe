@@ -13,7 +13,7 @@ Source code of remibarbe.fr
 
 Fork me on GITHUB https://github.com/Remiii/remiii.github.com
 
-http://travis-ci.org/Remiii/remiii.github.com.png
+![TravisStatus](http://travis-ci.org/Remiii/remiii.github.com.png)<br />
 
 ![Screen shot](https://raw.github.com/Remiii/remiii.github.com/master/_documentation/screen_001.png)<br />
 Screen shot.
