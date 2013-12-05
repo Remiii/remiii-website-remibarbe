@@ -43,6 +43,11 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
+  <loc>http://remibarbe.fr/about/</loc>
+  <priority>0.50</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
   <loc>http://remibarbe.fr/darwin-project/</loc>
   <priority>0.40</priority>
   <changefreq>weekly</changefreq>
