@@ -1,0 +1,24 @@
+---
+layout: default
+name: "tags"
+title: "Tags"
+meta_description: ""
+meta_keywords: ""
+meta_robots: "index, follow"
+---
+
+<div class="row blog-list">
+    <div class="col-lg-12">
+        <div class="page-header">
+            <h1>Posts Tags</h1>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                {% for tag in page.tags %}
+                    <a href="/blog/tag/{{ tag }}"><span class="label label-info"><span class="glyphicon glyphicon-tags"></span>&nbsp;&nbsp;{{ tag }}</span></a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
