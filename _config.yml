@@ -19,3 +19,20 @@ production_url: http://remibarbe.fr
 permalink: /blog/:year/:month/:day/:title
 relative_permalinks: no
 
+api:
+    me:
+        name: "Remi Barbe"
+        email: "-"
+        age: "30"
+        gender: "male"
+        city: "Paris"
+        hometown: "Paris"
+        photo: "http://remibarbe.fr/assets/images/remi-barbe-thumb-v001.jpg"
+        favorite-foods:
+            - "big mac"
+            - "mac delux"
+            - "whopper"
+        favorite-drinks:
+            - "coca cola"
+            - "apple jus"
+
