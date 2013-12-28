@@ -26,12 +26,16 @@ module Jekyll
 
         def write_api_index(site,node)
             raw_data = Jekyll.configuration({})[node]
-            result = JSON.pretty_generate(JSON.parse(raw_data.to_json))
+            result = pretty_formating(raw_data)
             #result = raw_data.to_json
             index = MeApiIndex.new(site, site.source, result)
             index.render(site.layouts, site.site_payload)
             index.write(site.dest)
             site.pages << index
+        end
+
+        def pretty_formating(data)
+            return JSON.pretty_generate(JSON.parse(data.to_json))
         end
 
     end
