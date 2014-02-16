@@ -23,13 +23,17 @@ tags:
 
 Basé sur une distribution [Tiny Core Linux](http://distro.ibiblio.org/tinycorelinux/) faite spécialement pour [docker](https://www.docker.io), [boot2docker](https://github.com/steeve/boot2docker) tourne à 100% en RAM, pèse 27Mo et démarre en environ 5 secondes (au moment de la rédaction de cet article - des améliorations sont en cours). Il permet de démarrer rapidement [docker](https://www.docker.io) sur OSX... sans avoir à installer une VM de plusieurs centaines de Mo.
 
-Pour les utilisateurs de distribution Linux supportant [LXC](http://fr.wikipedia.org/wiki/LXC) l’installation de [docker](https://www.docker.io) directement sur l’OS Host semble préférable à moins qu’ils souhaitent comme moi encapsuler un maximum leurs machines de développement. Pour les environnements de production, [boot2docker](https://github.com/steeve/boot2docker) peut se présenter comme une alternative légère à [CoreOS](https://coreos.com) même si l’utilisation en production de [boot2docker](https://github.com/steeve/boot2docker) est pour l’instant très prématurée.
+Pour les utilisateurs de distribution Linux supportant [LxC](http://fr.wikipedia.org/wiki/LXC) l’installation de [docker](https://www.docker.io) directement sur l’OS Host semble préférable à moins qu’ils souhaitent comme moi encapsuler un maximum leurs machines de développement. Pour les environnements de production, [boot2docker](https://github.com/steeve/boot2docker) peut se présenter comme une alternative légère à [CoreOS](https://coreos.com) même si l’utilisation en production de [boot2docker](https://github.com/steeve/boot2docker) est pour l’instant très prématurée.
 
 [Boot2docker](https://github.com/steeve/boot2docker) est un projet qui à quelques mois et qui me semble très prometteur, à suivre...
 
 Voici les étapes pour installer et démarrer [boot2docker](https://github.com/steeve/boot2docker) sur OSX (testé sur OSX 10.9.1 avec brew 0.9.5) :
 
 <script src="https://gist.github.com/Remiii/9039554.js"></script>
+
+Présentation de [Boot2docker](https://github.com/steeve/boot2docker) par Steeve Morin :
+
+<script async class="speakerdeck-embed" data-id="5e0897b0771c013179731e7fd7daf351" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Rémi
 
