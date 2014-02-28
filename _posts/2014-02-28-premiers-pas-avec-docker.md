@@ -42,7 +42,7 @@ Crée une image à partir du dockerfile ubuntu-app-jekyll disponible à cette ad
 
 <script src="https://gist.github.com/Remiii/9273738.js"></script>
 
-### Création d'une image à partir d'un Dockerfile :
+### Création d'une image à partir d'un Dockerfile
 
 <script src="https://gist.github.com/Remiii/9273761.js"></script>
 L'option *-t nameOfimage* permet de définir le nom de l'image généré.
