@@ -50,7 +50,7 @@ L'option *--rm=true* permet de supprimer les images intermédiaires créées lor
 
 Une version est disponible sur ma *registry* docker [remiii/ubunut-app-jekyll](https://index.docker.io/u/remiii/remiii-dockerfile-ubuntu-app-j/).
 
-### Liste toutes les images
+### Lister toutes les images
 
 <script src="https://gist.github.com/Remiii/9273785.js"></script>
 L'option *-a* permet de lister toutes les images.
@@ -65,7 +65,7 @@ L'option *-a* permet de lister toutes les images.
 
 <script src="https://gist.github.com/Remiii/9273818.js"></script>
 
-### Liste tous les containers
+### Lister tous les containers
 
 <script src="https://gist.github.com/Remiii/9273833.js"></script>
 L'option *-a* permet de lister tous les containers.
