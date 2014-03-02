@@ -70,21 +70,24 @@ layout: default
 
     <div class="col-lg-4 col-offset1 blog-infos hidden-sm">
         <h2>RSS</h2>
-        <ul>
+        <ul class="">
             <li><a href="/blog/atom.xml">Flux ATOME</a></li>
             <li><a href="/blog/atom.xml">Flux RSS</a></li>
         </ul>
         <h2>Autres posts</h2>
-        <ul>
+        <ul class="">
             {% for post in site.posts limit:20 %}
                 <li><a href="{{ post.url }}">{{ post.title | truncate: 40 }}</a></li>
             {% endfor %}
         </ul>
-        <h2>Cloud Tag</h2>
+        <h2>Tags</h2>
         {% for tag in site.tags %}
                 <a href="/blog/tag/{{ tag | first }}" style="font-size:{{tag | last | size | times:200 | divided_by:site.tags.size | plus:100}}%">{{ tag | first }}</a>&nbsp;
         {% endfor %}
-        <ul>
+        <h2>Archives</h2>
+        <ul class="">
+            <li><a href="/blog/archive">Archives du blog</a></li>
+        </ul>
     </div>
 
 </div>

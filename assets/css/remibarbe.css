@@ -19,6 +19,12 @@ body
 }
 
 
+.indentation-list
+{
+    margin-left : 20px !important ;
+}
+
+
 .navbar-brand
 {
     max-width : none !important ;
@@ -267,6 +273,15 @@ div#jumbotron-twitter-btn
 .tags a:focus, .tags a:hover
 {
     color : white ;
+}
+
+
+.blog-archive-list-time
+{
+    font-size : 16px ;
+    font-weight : lighter ;
+    color : lightgrey ;
+    margin-right : 5px ;
 }
 
 
