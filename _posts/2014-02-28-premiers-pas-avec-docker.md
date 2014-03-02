@@ -8,7 +8,7 @@ tags:
     - development
     - docker
     - boot2docker
-    - liunx
+    - linux
     - coreos
     - ops
     - jekyll

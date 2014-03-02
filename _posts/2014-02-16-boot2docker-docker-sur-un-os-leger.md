@@ -8,8 +8,7 @@ tags:
     - development
     - docker
     - boot2docker
-    - liunx
-    - devops
+    - linux
     - paas
     - osx
     - coreos
