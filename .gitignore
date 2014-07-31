@@ -1,4 +1,6 @@
 .DS_Store
 _site/*
-!.gitkeep
 _draft/*
+assets/zenorocha/jquery-github
+node_modules/*
+!.gitkeep
