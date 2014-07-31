@@ -101,6 +101,12 @@ h1
 }
 
 
+h2
+{
+    margin-top : 25px ;
+}
+
+
 div#jumbotron-twitter-btn
 {
     margin-top : 30px ;
@@ -142,7 +148,7 @@ div#jumbotron-twitter-btn
 
 .works-preview
 {
-    padding-top : 5px ;
+    padding-top : 3px ;
     padding-bottom : 10px ;
 }
 
@@ -179,7 +185,7 @@ div#jumbotron-twitter-btn
 .blog-list h2
 {
     font-size : 30px ;
-    margin-bottom : 0px ;
+    margin-bottom : 3px ;
 }
 
 
