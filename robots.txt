@@ -1,5 +1,5 @@
 ---
-layout: nul
+layout: null
 ---
 User-agent: *
 Disallow: /a/
