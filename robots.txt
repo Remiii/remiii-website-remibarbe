@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: nul
 ---
 User-agent: *
 Disallow: /a/
