@@ -34,5 +34,15 @@ Présentation de [Boot2docker](https://github.com/steeve/boot2docker) par Steeve
 
 <script async class="speakerdeck-embed" data-id="5e0897b0771c013179731e7fd7daf351" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+<hr>
+
+EDIT (29/12/2014) :
+
+Depuis l'écriture de ce post en février 2014 le projet boot2docker a énormément avancé. Boot2docker est passé de la version v0.5.4 à v1.4.1 intégrant ainsi les nouveautés de Docker ! Il est maintenant possible d'utiliser Docker dans un environnement de production et de nombreux acteurs du Cloud comme : Amazon AWS, DigitalOcean, Microsoft Azure... ont depuis quelques mois intégrés une solution de conteneurs LXC basé sur Docker. Si vous souhaitez découvrir Docker je vous invite à lire mon post [Premiers pas avec Docker](http://remibarbe.fr/blog/2014/02/28/premiers-pas-avec-docker/) je présente en quelques lignes, les commandes et cas d'utilisation de base.
+
+<script src="https://gist.github.com/Remiii/29d09c7b1b2b298c555f.js"></script>
+
+A noter que boot2docker propose maintenant un installer pour MAC OSX et Windows disponible au téléchargement depuis le repository [GitHub](https://github.com/boot2docker/boot2docker) et le site web de [boot2docker](http://boot2docker.io).
+
 Rémi
 
