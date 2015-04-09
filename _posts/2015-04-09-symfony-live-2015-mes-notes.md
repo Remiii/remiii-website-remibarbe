@@ -227,6 +227,8 @@ Info : 18h30 à 18h40
 
 Backbee est un CMS reposant sur des composants Symfony et Doctrine. Il offre aux contributeurs des sites une expérience ergonomique inédite leur assurant une prise en main rapide et une large autonomie de mise à jour de leurs contenus. La définition souple des droits, des processus de publication et la mise en version systématique des contenus leur assure de plus une grande sécurité éditoriale. BackBee est distribué sous licence open source GPL3.
 
+<img src="/assets/images/blog/image00052.png" class="img-responsive"/><br />
+
 <br><br>
 
 Le repo GitHub [github.com/clem/sflive-paris-2015](https://github.com/clem/sflive-paris-2015) fait par [Clément Delmas](https://twitter.com/clem) propose également un lien vers les présentations.
