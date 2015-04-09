@@ -120,6 +120,8 @@ Comment Meetic opère son changement technologique sur son SI. De la création d
 
 <img src="/assets/images/blog/image00045.png" class="img-responsive"/><br />
 
+[Lien vers les diapos](http://www.slideshare.net/meeticTech/meetic-backend-mutation-with-symfony)
+
 <br>
 ## Faites plaisir à vos utilisateurs : surveillez votre prod
 
@@ -142,6 +144,8 @@ Info : 14h50 à 15h10
 
 Il n'y a que des bugs faciles à résoudre ...quand on a de quoi les cerner ! Le développeur PHP dispose de toute une panoplie d'outils pour tracker les situations les plus rocambolesques. Depuis ses débuts, Symfony n'a eu de cesse d'améliorer l'expérience du développeur en proposant des solutions d'accompagnement robustes et génériques. Les connaissez-vous suffisament ? Lors de cette présentation, je vous donnerai les clefs des mécanismes de debugging présents dans Symfony : VarDumper, Web Debug Toolbar, logs, gestionnaire d'erreur fatales et d'exceptions, etc.
 
+<iframe src="//www.slideshare.net/fullscreen/nicolas.grekas/symfony-debug-vardumper" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//fr.slideshare.net/nicolas.grekas/symfony-debug-vardumper" title="Symfony Debug &amp; VarDumper" target="_blank">Symfony Debug &amp; VarDumper</a> </strong> from <strong><a href="//www.slideshare.net/nicolas.grekas" target="_blank">nicolas.grekas</a></strong> </div>
+
 <br>
 ## Construire des applications API-centric avec Symfony
 
@@ -154,6 +158,8 @@ Au cours de ce talk, je présenterai une architecture moderne qui permet de cons
 <img src="/assets/images/blog/image00047.png" class="img-responsive"/><br />
 
 <img src="/assets/images/blog/image00048.png" class="img-responsive"/><br />
+
+[Lien vers les diapos](http://dunglas.fr/2015/01/slides-a-propos-des-linked-data-et-des-api-rest-hypermedia-avec-symfony/)
 
 <br>
 ## Le DIC, ce chef d'orchestre !
