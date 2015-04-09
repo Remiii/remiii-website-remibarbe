@@ -175,6 +175,10 @@ Info : 17h15 à 17h55
 
 Les containers sont venus bousculer le monde de la virtualisation, et Docker est devenu un outil incontournable. Nous verrons comment l'utiliser avec Symfony et surtout comment l'ajuster pour résoudre les problèmes courants, améliorer les performances ainsi que l’expérience du développeur. Nous nous intéresseront également à son utilisation dans le processus d'intégration continue, nous verrons comment Docker peut simplifier et améliorer l’exécution des tests fonctionnels.
 
+<img src="/assets/images/blog/image00049.png" class="img-responsive"/><br />
+
+[Lien vers les diapos](http://slides.com/jeremyderusse/docker-dev#/)
+
 <br>
 ## Une API et une admin en moins de 10 minutes ? Challenge accepted !
 
