@@ -194,6 +194,10 @@ Info : 18h00 à 18h10
 
 Créer une API REST... Une mission simple en apparence, mais pouvant s'avérer chronophage, et ce même avec certains bundles reconnus tels le FOSRestBundle. Heureusement, d'autres bundles existent, privilégiant les conventions par delà la configuration, ce qui est le cas du StanLemon/RestBundle (https://github.com/stanlemon/rest-bundle). Développons ensemble, en une dizaine de minutes, une API REST pleinement fonctionnelle, et implémentons y une interface d'administration basée sur ng-admin (https://github.com/marmelab/ng-admin).
 
+<img src="/assets/images/blog/image00050.png" class="img-responsive"/><br />
+
+[Lien vers l'article Create a JavaScript Admin Panel and a REST API for Symfony2 Apps in Minutes](http://marmelab.com/blog/2015/02/24/ngadmingeneratorbundle-create-javascript-admin-panel-rest-api-symfony2-in-minutes.html)
+
 <br>
 ## Retour d'expérience sur l'édition d'un "Enterprise Software" basé sur Symfony
 
@@ -202,6 +206,8 @@ Présentateur : Nicolas Dupont - [GitHub](), [Twitter](), [SiteWeb](), [SensioCo
 Info : 18h10 à 18h20
 
 Akeneo PIM est un outil de gestion de catalogue produits open-source basé sur Symfony et Doctrine. Le développement a démarré il y a deux ans, l'équipe produit a évolué de 2 à 12 personnes, nous proposons une version communautaire et une version entreprise, utilisées par des clients grands comptes au sein de leur SI. En tant qu'éditeur, nous nous concentrons sur le développement des nouvelles fonctionnalités et la maintenance, les développements spécifiques étant réalisés par un réseau de partenaires intégrateurs. Durant cette conférence, sous la forme d'une rétrospective, nous souhaitons présenter notre retour d'expérience technique et méthodologique sur la création de ce produit. Nous présenterons les avantages d'utiliser Symfony comme socle technique, comment rendre une application extensible et maintenable, les écueils techniques que nous avons rencontrés ainsi que les choix techniques que nous ferions aujourd'hui avec l'expérience acquise.
+
+<img src="/assets/images/blog/image00051.png" class="img-responsive"/><br />
 
 <br>
 ## Symfony pour construire des sites e-commerce de nouvelle génération
@@ -220,6 +226,10 @@ Présentateur : Mickaël Andrieu - [GitHub](https://github.com/mickaelandrieu), 
 Info : 18h30 à 18h40
 
 Backbee est un CMS reposant sur des composants Symfony et Doctrine. Il offre aux contributeurs des sites une expérience ergonomique inédite leur assurant une prise en main rapide et une large autonomie de mise à jour de leurs contenus. La définition souple des droits, des processus de publication et la mise en version systématique des contenus leur assure de plus une grande sécurité éditoriale. BackBee est distribué sous licence open source GPL3.
+
+<br><br>
+
+Le repo GitHub [github.com/clem/sflive-paris-2015](https://github.com/clem/sflive-paris-2015) fait par [Clément Delmas](https://twitter.com/clem) propose également un lien vers les présentations.
 
 <br><br>
 
