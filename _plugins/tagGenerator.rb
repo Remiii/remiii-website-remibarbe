@@ -42,8 +42,8 @@ module Jekyll
     end
 
     def write_tags_index(site, dir)
-      tags = write_tagslist(site)
-      index = TagsIndex.new(site, site.source, dir, tags)
+      myTags = write_tagslist(site)
+      index = TagsIndex.new(site, site.source, dir, myTags)
       index.render(site.layouts, site.site_payload)
       index.write(site.dest)
       site.pages << index
@@ -58,13 +58,13 @@ module Jekyll
     end
 
     def write_tagslist(site)
-      tags = Array.new
+      myTags = Array.new
       site.posts.each do |post|
         post.tags.each do |ltag|
-          tags.push(ltag)
+          myTags.push(ltag)
         end
       end
-      return tags.uniq
+      return myTags.uniq
     end
 
     def write_relatedtags(site, tag)
