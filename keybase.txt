@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/remiii
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://remibarbe.fr
+  * I am remiii (https://keybase.io/remiii) on keybase.
+  * I have a public key with fingerprint F90F FF89 373B 8073 F9EA  DEC4 3977 789D 69EE 39B5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101893c2417dca84b2649c3324f00ca3ceffac56fce282c6effe4aee58c2df8ec3e0a",
+            "fingerprint": "f90fff89373b8073f9eadec43977789d69ee39b5",
+            "host": "keybase.io",
+            "key_id": "3977789d69ee39b5",
+            "kid": "0101893c2417dca84b2649c3324f00ca3ceffac56fce282c6effe4aee58c2df8ec3e0a",
+            "uid": "cb954b05a5d890320b07677e412fb819",
+            "username": "remiii"
+        },
+        "service": {
+            "hostname": "remibarbe.fr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1493060748,
+    "expire_in": 157680000,
+    "prev": "2818a61aa2e96b365370bd9027d68a85fd1261e70312cf9379c3b1fb9c09a100",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtMHFUU3uUZHsI2KHVTKGSgYOR15z0DxEQCmNIaoQUi+NjM4852BHaW2QW6
+EKqwVSwSoAgJLcVSbWnaIm21m9qi6UqIaQSB0rSxoG2MsXEjssGCYrHoDNHEH/70
+/rk553zfd79z7ul+LNAQbmQb9g/KS6zHOOnjDS9u7O5tQnhFdCHZTUgV3LxgtQgd
+TkuVLCLZCEAByrC4gBEoLQocQ/AYRbACjmOEBIDA4QKUJE4gKUmAGIMJlBZCgoOQ
+ZARMlBgo4BBwSDoiyTYrVO2qbHNqshILJEnShGmcZwCNSyzkRCgQOEvTNMOKFAsh
+zvKkRtynOHSGZo7nHDBTVrScFlg27f0H/n/2XbcpJ/AsSfCA5EiRYQGOAR7QFE1D
+AsUknkFZHeiAqo2rgRpahTWyLCPN6YiWq5cFqI9V7+NfdZ5TeZgpqRrTripORVCq
+tco+p9OerROdLruObIC85W8NCy/bRG2IGqEeqg5ZsSHZqIYUnLIuihIsDihAE0w6
+AvfbZRVaZB1B0hQDtKM/A+s1SYxBGY5COQ4rgyzF4xSJ04AXWYDRIsVwDCmJKEah
+kAY4igmS9kXa2HhU4lkBsBwKAKK3VWtTkGxK88lZNU2HbLVxzjoVIs3hhwLiggzG
+cENIcIC+XobwMNM/OzeBmQxDLjn9iQcBjbN32z3MZwn9af2FPXcSLq32BKdEJrvd
+i6bXsg7deomaOODpuDEQ5u4emk/qnvr6eKgva63kyfgdFyKWq8eT5i1djj9yr8da
+t78y374XVzyfJPu3Wla7MvLP3plb/pleJ6J+Wzl6Yoz1qldqpaDnbvZVVnwg7Er6
+ouzsymJL+Y30jMYfSd9c39GEyvGgh96Ij8hHv8a9FRTsfSHR3Bt4YM4c0xZk3OCK
+1m8fWT6ds9C6e4rO7WZLuNKU08NLxe6fSj3RPePvn/ml0hp/vqpzsmVX4tqaP958
++z3HyYl5OuOcq/3I9Leh01d5DLG3DUb78hpmMEd3qtnvDVgaOHOvvjHqat+xy2Pl
+qeZCbuZh8bUYM7M6n7LgdZr8P9TBlxsT3shvfTSc9mVJwc2prEvLM3dnfBF7v/9m
+5Nm1vosnVedFJC2/PjDwQU5hrPXaILCGnDp34ePR/tA+t2ubqbgWHi6N7MnKf/Pg
+QOtIw/HrccMVbZExoe8uts9e6bSP5BiJGMOOko2mZf/5kK/GcmPvkS3bn1l46v4Q
+vV5Q6R+NXGubDs5r7kq99fjr3jy3Z9BVN3liMcq1bU9RTfXb47OlHck5x4ZbLb2p
+H4LxIuXVlafLe8PeMe58fgtXEN15cGBramVmV8efn5Ypv49EZrlbLo8dPnX/u5zP
+RVgxak3M/Qs=
+=GN2M
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/remiii
+
+==================================================================
+
