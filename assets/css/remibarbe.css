@@ -31,21 +31,6 @@ body
 }
 
 
-/* Hack navbar-toggle */
-.navbar-toggle
-{
-    margin-top : 0px !important;
-}
-
-
-/* Hack for hellobar */
-/*.navbar
-{
-    top : 53px ;
-}*/
-/* End Hack for hellobar */
-
-
 .content
 {
     margin-bottom : 50px ;
