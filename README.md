@@ -38,6 +38,10 @@ $ vim _config-dev.yml
 $ jekyll serve --config _config.yml,_config-dev.yml --watch
 ```
 
+### Run Docker
+```sh
+$ docker-compose up
+```
 
 # License
 remiii.github.com is licensed under the MIT license (see LICENSE.md file).
