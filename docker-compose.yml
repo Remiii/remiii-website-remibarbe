@@ -3,7 +3,7 @@ version: "2"
 services:
     jekyll:
         image: jekyll/jekyll:pages
-        command: jekyll serve --watch --incremental
+        command: jekyll serve --config _config.yml,_config-dev.yml --watch
         ports:
             - 4000:4000
         volumes:

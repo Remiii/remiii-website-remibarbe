@@ -1,8 +1,8 @@
 #Github page settings
 
-port: 10090
+port: 4000
 
-url: http://localhost:10090
+url: http://localhost:4000
 
 future: true
 
