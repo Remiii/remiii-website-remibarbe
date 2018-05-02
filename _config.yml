@@ -6,14 +6,14 @@ destination: ./_site
 
 #url: http://localhost:10090
 #url: http://remiii.github.com
-url: http://remibarbe.fr
+url: https://remibarbe.fr
 
 author:
     name: Rémi Barbe
     github: remiii
     twitter: Remiii_
 
-production_url: http://remibarbe.fr
+production_url: https://remibarbe.fr
 
 permalink: /blog/:year/:month/:day/:title
 relative_permalinks: no
@@ -26,7 +26,7 @@ api:
         gender: "male"
         city: "Paris"
         hometown: "Paris"
-        photo: "http://remibarbe.fr/assets/images/remi-barbe-thumb-v001.jpg"
+        photo: "https://remibarbe.fr/assets/images/remi-barbe-thumb-v001.jpg"
         favorite-foods:
             - "big mac"
             - "mac delux"
