@@ -11,11 +11,11 @@
 
 Source code of remibarbe.fr
 
-Fork me on GITHUB https://github.com/Remiii/remiii.github.com
+Fork me on GITHUB https://github.com/Remiii/remiii-website-remibarbe
 
-![TravisStatus](https://travis-ci.org/Remiii/remiii.github.com.png)<br />
+![TravisStatus](https://travis-ci.org/Remiii/remiii-website-remibarbe.png)<br />
 
-![Screen shot](https://raw.github.com/Remiii/remiii.github.com/master/_documentation/screen_001.png)<br />
+![Screen shot](https://raw.github.com/Remiii/remiii-website-remibarbe/master/_documentation/screen_001.png)<br />
 Screen shot.
 
 ## Dev evt
@@ -43,9 +43,9 @@ $ jekyll serve --config _config.yml,_config-dev.yml --watch
 $ docker-compose up
 ```
 
-# License
-remiii.github.com is licensed under the MIT license (see LICENSE.md file).
+## License
+remiii-website-remibarbe is licensed under the MIT license (see LICENSE.md file).
 
-# Author
+## Author
 @Remiii
 
