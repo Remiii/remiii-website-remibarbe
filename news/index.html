@@ -21,15 +21,11 @@ meta_robots: "index, follow"
             <div class="col-lg-5 col-offset1 blog-news">
                 <h2>Blog</h2>
                     <ul>
-                        {% for post in site.posts limit:15 %}
+                        {% for post in site.posts limit:20 %}
                         <li><a href="{{ post.url }}">{{ post.title | truncate: 50 }}</a></li>
                         {% endfor %}
                     </ul>
-                    <br />
-                <h2>Infos</h2>
-                    <h3>Voeux ICC</h3>
-                    <p>Pour vos voeux 2016 penser à contacter <a href="http://www.agence-icc.fr">l'agence ICC</a>.</p>
-            </div> <!-- end wrapper - span -->
-        </div> <!-- end wrapper - row -->
+            </div>
+        </div>
     </div>
 </div>
