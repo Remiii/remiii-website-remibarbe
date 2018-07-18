@@ -23,12 +23,12 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://remibarbe.fr/works/</loc>
+  <loc>https://remibarbe.fr/pro/</loc>
   <priority>0.70</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://remibarbe.fr/projects/</loc>
+  <loc>https://remibarbe.fr/perso/</loc>
   <priority>0.70</priority>
   <changefreq>weekly</changefreq>
 </url>
@@ -36,11 +36,6 @@
   <loc>https://remibarbe.fr/blog/</loc>
   <priority>0.70</priority>
   <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://remibarbe.fr/cv/</loc>
-  <priority>0.60</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://remibarbe.fr/about/</loc>
